@@ -6,7 +6,7 @@
 <circle cx="22" cy="20" r="5" fill="#E8442C"/>
 <text x="34" y="29" class="d" font-size="25" letter-spacing="1.2" fill="#F5EFE0">LENGUAJES MÁS USADOS</text>
 <rect x="34" y="32" width="212" height="3.5" rx="1.75" fill="#E8442C"/>
-<clipPath id="bc"><rect x="24" y="64" width="412" height="12" rx="6"/></clipPath><g clip-path="url(#bc)"><rect x="24.0" y="64" width="162.7" height="12" fill="#E8442C"/><rect x="186.7" y="64" width="137.7" height="12" fill="#A9C0E8"/><rect x="324.3" y="64" width="108.4" height="12" fill="#2F4FB0"/><rect x="432.7" y="64" width="3.3" height="12" fill="#F6C1B6"/></g>
+<clipPath id="bc"><rect x="24" y="64" width="412" height="12" rx="6"/></clipPath><g clip-path="url(#bc)"><rect x="24.0" y="64" width="161.5" height="12" fill="#E8442C"/><rect x="185.5" y="64" width="136.7" height="12" fill="#A9C0E8"/><rect x="322.2" y="64" width="107.6" height="12" fill="#2F4FB0"/><rect x="429.8" y="64" width="6.2" height="12" fill="#F6C1B6"/></g>
 <rect x="24" y="100" width="14" height="14" rx="4" fill="#E8442C" stroke="#1B1B4E" stroke-opacity=".15"/>
 <text x="46" y="112" class="s" font-size="14.5" fill="#1B1B4E">TypeScript</text>
 <text x="220" y="113" class="d" font-size="22" text-anchor="end" fill="#E8442C">39%</text>
