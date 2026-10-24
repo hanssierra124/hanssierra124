@@ -11,7 +11,7 @@
 <text x="436" y="79" class="d" font-size="24" text-anchor="end" fill="#1B1B4E">0</text>
 <circle cx="30" cy="101" r="4.5" fill="#2F4FB0"/>
 <text x="44" y="106" class="s" font-size="14.5" fill="#1B1B4E">Commits este año</text>
-<text x="436" y="107" class="d" font-size="24" text-anchor="end" fill="#1B1B4E">13</text>
+<text x="436" y="107" class="d" font-size="24" text-anchor="end" fill="#1B1B4E">2</text>
 <circle cx="30" cy="129" r="4.5" fill="#A9C0E8"/>
 <text x="44" y="134" class="s" font-size="14.5" fill="#1B1B4E">Pull requests</text>
 <text x="436" y="135" class="d" font-size="24" text-anchor="end" fill="#1B1B4E">0</text>
